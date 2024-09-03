@@ -12,6 +12,7 @@ git clone https://github.com/QuickLike/tanais_express
 cd tanais_express
 ```
 Создайте виртуальное окружение и активируйте его
+
 Windows
 ```
 python -m venv venv
